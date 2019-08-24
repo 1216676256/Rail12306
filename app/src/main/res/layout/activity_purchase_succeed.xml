@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/succeed_back"
+        android:layout_width="match_parent"
+        android:textColor="#FF0000"
+        android:textSize="30sp"
+        android:gravity="center"
+        android:text="恭喜订票成功\n点此返回预订车票界面"
+        android:layout_height="wrap_content"
+        android:src="@drawable/welcome"/>
+</LinearLayout>
+
